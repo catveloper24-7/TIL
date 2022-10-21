@@ -33,7 +33,7 @@
 ### [유용한 확장 프로그램]
 다양한 확장 프로그램들을 market place에서 검색하여 설치 및 사용할 수 있다.
 * `Korean Language Pack for Visual Studio Code` : 한글팩
-  * 설치하고 VSCode 다시 시작해야 적용됨
+  * 설치하고 VSCode 다시 시작해야 적용된다.
 * `open in browser` : 작성한 파일을 브라우저에서 실행
   *  단축키 Alt + B : 기본 브라우저로 실행
 * `Prettier - Code formatter` : 코드 포맷팅
