@@ -7,7 +7,7 @@
 * 다시 봤을 때 이해할 수 있도록 작성하자
 * 폴더명은 영어로, 파일명은 내용을 알기 쉽도록 한글로 작성하자
 * 참고한 자료는 반드시 링크를 걸자
-* 너무 지나친 설명 X, **정리하면서 스스로 이해하고 복습할 수 있는게 가장 중요하다**
+* 너무 지나친 설명 X, **정리하면서 스스로 이해하고 복습하는 것이 가장 중요하다**
 
 ## [분류]
 
@@ -19,6 +19,7 @@
 ### :cat2: Data Structure
 
 ### :cat2: Algorithm
+* [알고리즘 복잡도 표현기법](https://github.com/catveloper24-7/TIL/blob/main/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B3%B5%EC%9E%A1%EB%8F%84%ED%91%9C%ED%98%84%EA%B8%B0%EB%B2%95.md)
 
 ### :cat2: Spring Framework
 
@@ -35,4 +36,4 @@
 ### :cat2: Tools
 * [VS Code 사용법](https://github.com/catveloper24-7/TIL/blob/main/Tools/VSCode%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
-### :cat2: ETC
+### :cat2: Etc
