@@ -17,7 +17,7 @@
    * 가장 최근 버전의 Windows용 64bit Git이 다운로드 된다.
 2. 기본 branch명 설정 부분을 제외한 나머지는 기본 설정으로 설치한다.
    * 예전에는 master라는 명칭을 사용했었지만, 노예 제도를 연상시킨다는 이슈가 있어 최근에는 거의 대부분 main 이라는 명칭을 사용한다고 한다. 그러므로 기본 branch명 설정 시 main으로 설정하도록 체크하고 설치하자 
-   * (관련 이미지 넣을 예정)
+   * <img src="https://github.com/catveloper24-7/TIL/blob/main/Etc/image/Git%EC%84%A4%EC%B9%98_%EA%B8%B0%EB%B3%B8branch%EB%AA%85%EC%84%A4%EC%A0%95.PNG" width="450px" height="306px" title="Git 설치 시 기본 branch명 설정" alt="Git 설치 시 기본 branch명 설정"></img>
    * `$ git config --global init.defaultbBranch main` 명령어로 나중에 변경하는 것도 가능하다.
 3. 설치 후 Windows 탐색기 or 폴더 내에서 마우스 오른쪽을 클릭 하면 2가지 메뉴가 나타난다.
    1. Git GUI here : GUI(Graphical User Interface) 방식으로 Git 사용
