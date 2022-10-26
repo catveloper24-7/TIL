@@ -19,7 +19,7 @@
 ### :cat2: Data Structure
 
 ### :cat2: Algorithm
-* [알고리즘 복잡도 표현기법](https://github.com/catveloper24-7/TIL/blob/main/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%B3%B5%EC%9E%A1%EB%8F%84%ED%91%9C%ED%98%84%EA%B8%B0%EB%B2%95.md)
+* [알고리즘과 성능 분석](https://github.com/catveloper24-7/TIL/blob/main/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC_%EC%84%B1%EB%8A%A5%EB%B6%84%EC%84%9D.md)
 
 ### :cat2: Spring Framework
 
