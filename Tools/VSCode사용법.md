@@ -51,3 +51,4 @@
 * [Visual Studio Code에 git 연동하기](https://earth-95.tistory.com/m/87)
 * [마크다운 사용법 1 - 마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3-1)
 * [마크다운 사용법 2 - MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
+* [Markdown으로 수학식 작성하기(GitHub only)](https://jaime-note.tistory.com/343)
