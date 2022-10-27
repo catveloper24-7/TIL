@@ -16,7 +16,7 @@
 
 ---
 
-## 1. 피자 나눠먹기
+## 1. 피자 나눠먹기 (1)
 > 변수명 작성 tip : quotient 몫, remainder 나머지
 
 ### 1.1 문제 요약 
@@ -47,6 +47,16 @@
 |15|2|1|<span style="color:red">**3**</span>|**3**|
 
 입출력 예시를 통해 검증한 결과 일치함을 확인할 수 있었다.
+
+<!-- 문제 작성 형식 -->
+<!--
+## 1. 문제명
+### 1.1 문제 요약 
+### 1.2 입출력 예시
+### 1.3 풀이 1 (2022.10.27)
+#### 1.3.1 접근 방법
+#### 1.3.2 입출력 예시를 통한 검증
+-->
 
 ## 참고(Reference)
 * [프로그래머스 Level 0](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1)
