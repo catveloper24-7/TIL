@@ -16,7 +16,13 @@
 
 ### :cat2: Java
 
+* [Java 기초 개념](https://github.com/catveloper365/TIL/blob/main/Java/Java%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90.md)
+
 ### :cat2: Data Structure
+
+* [Array (배열)](https://github.com/catveloper365/TIL/blob/main/DataStructure/Array.md)
+* [Linked List (연결 리스트)](https://github.com/catveloper365/TIL/blob/main/DataStructure/LinkedList.md)
+* [Stack (스택)](https://github.com/catveloper365/TIL/blob/main/DataStructure/Stack.md)
 
 ### :cat2: Algorithm
 * [프로그래머스 Level0 학습기](https://github.com/catveloper24-7/TIL/blob/main/Algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Level0%ED%95%99%EC%8A%B5%EA%B8%B0.md)
