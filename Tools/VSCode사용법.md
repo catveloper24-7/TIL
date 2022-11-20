@@ -54,3 +54,4 @@
 * [Markdown으로 수학식 작성하기(GitHub only)](https://jaime-note.tistory.com/343)
 * [마크다운 표(table) 만들기](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [이모티콘 사용법](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [마크다운(Markdown) 문법 - 주석 사용법 참고](https://zoosso.tistory.com/1159)
