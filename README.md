@@ -21,6 +21,7 @@
 
 * [Java 기초 개념](https://github.com/catveloper365/TIL/blob/main/Java/Java%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90.md)
 * [코딩테스트 단골 Java 개념](https://github.com/catveloper365/TIL/blob/main/Java/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A8%EA%B3%A8Java%EA%B0%9C%EB%85%90.md)
+* [객체지향 개념](https://github.com/catveloper365/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B0%9C%EB%85%90.md)
 
 ### :cat2: Data Structure
 
