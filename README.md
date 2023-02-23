@@ -52,3 +52,16 @@
 * [VS Code 사용법](https://github.com/catveloper24-7/TIL/blob/main/Tools/VSCode%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 ### :cat2: Etc
+
+
+
+## [TIL용 커밋 메세지 규칙]
+
+- `Create` : 신규 파일 생성
+- `Add` : 파일 내용 추가, 보완
+- `Mod`: 파일 내용 수정
+- `Del`: 파일 삭제
+- `Divide` : 파일 분리
+- `Move` : 파일 카테고리 변경
+- `Rename` : 파일 이름 변경
+- `Docs` : README 문서 수정
